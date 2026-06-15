@@ -1,2 +1,3 @@
 # CODSOFT
-This repository contains all the tasks and projects completed during my CodSoft Internship.
+CODSOFT Python Programming Internship — A collection of Python projects and tasks completed during the internship.
+
