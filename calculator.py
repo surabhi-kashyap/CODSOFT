@@ -4,7 +4,10 @@ op=input("Enter the operator (+,/,*,%) : ")
 if op=="+":
     print(n1+n2)
 elif op=="/":
-    print(n1/n2)
+    if n2==0:
+        print("Cannot be divides  by 0")
+    else:
+        print(n1/n2)
 elif op=="*":
     print(n1*n2)
 elif op=="%":
